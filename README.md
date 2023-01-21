@@ -44,7 +44,7 @@
     # Clone o repositório
     $ git clone <https://github.com/Lenondiedrich/nlw-esports>
 
-    <h3>Backend</h3>
+    # Backend
     # Navegue até o diretório server
     $ cd server
 
@@ -54,7 +54,7 @@
     # Inicie a aplicação React
     $ npm start ou yarn start
 
-    <h3>Frontend</h3>
+    # Frontend
     # Navegue até o diretório web
     $ cd web
 
